@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<meta name="google-site-verification" content="yEtazfH_jwI20u6xGQ9habB5fo6Qmildi-nbtGG2etI" />
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR/giphy.gif" width="300"/>
 <div id="badges" align="center">
