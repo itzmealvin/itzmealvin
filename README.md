@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <meta name="google-site-verification" content="yEtazfH_jwI20u6xGQ9habB5fo6Qmildi-nbtGG2etI" />
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhlbzA1dnRtN3EwZWYwYzF0NTR3eWxya2Jma2k5a2F2MnA4N2NlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r8fg3jM74trfOxL92h/giphy.gif" width="300"/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/itzmealvin/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
